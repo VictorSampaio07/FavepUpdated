@@ -89,7 +89,7 @@ Navegue até o diretório 'ServerBackup/'
 
 3. Gerar o Prisma:
    
-   npx nodemon index.js
+   npx prisma generate
 
 5. Verificar a conexão com o banco:
    
