@@ -87,15 +87,12 @@ Navegue até o diretório 'ServerBackup/'
    
    npm install
 
-3. Gerar o Prisma:
+2. Gerar o Prisma:
    
    npx prisma generate
 
-5. Verificar a conexão com o banco:
-   
-   npx prisma db pull
 
-7. Iniciar o servidor de maneira simples: 🚀
+3. Iniciar o servidor de maneira simples: 🚀
    
    node index.js
 
